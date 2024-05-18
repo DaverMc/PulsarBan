@@ -1,2 +1,3 @@
 rootProject.name = 'PulsarBan'
+include 'PulsarBan-Core'
 
